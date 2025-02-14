@@ -1,5 +1,5 @@
 Hello! I'm Pedro, brazilian, 24y. 👋
-I'm a .NET Fullstack Developer, currently pursuing a Bachelor's degree in Computer Science at UFABC.
+-I'm a .NET Fullstack Developer, currently pursuing a Bachelor's degree in Computer Science at UFABC.-
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
           
 <!--
