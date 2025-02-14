@@ -1,7 +1,9 @@
-## Hi there 👋
-
+Hello! I'm Pedro, brazilian, 24y. 👋
+I'm a .NET Fullstack Developer, currently pursuing a Bachelor's degree in Computer Science at UFABC.
+<link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
+          
 <!--
-**imSouk/imSouk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
 
 Here are some ideas to get you started:
 
